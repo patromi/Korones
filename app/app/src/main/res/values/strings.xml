@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Korones</string>
+
+    <string name="pages_symtoms">Objawy</string>
+    <string name="pages_stats">Statystyki</string>
+    <string name="pages_restrictions">Obostrzenia</string>
+    <string name="pages_contact">Kontakt z sanepidem</string>
+    <string name="pages_authors">Autorzy</string>
+
+    <string name="stat_hint">Wprowadź kraj</string>
+    <string name="contact_hint_region">Wprowadź miasto</string>
+    <string name="stat_default_loading">...</string>
+
+    <string name="stats_tablecolumn_country">Kraj:</string>
+    <string name="stats_tablecolumn_allcases">Wszystkie zarażenia:</string>
+    <string name="stats_tablecolumn_newcases">Nowe zarażenia:</string>
+    <string name="stats_tablecolumn_alldeads">Wszystkie zgony:</string>
+    <string name="stats_tablecolumn_newdeath">Nowe zgony:</string>
+    <string name="stats_tablecolumn_allrecived">Wyleczonych:</string>
+    <string name="stats_tablecolumn_activecases">Aktywne zakażenia:</string>
+    <string name="stats_tablecolumn_critical">Poważne przypadki:</string>
+    <string name="stats_tablecolumn_cases1m">Chorych na 1 milon:</string>
+    <string name="stats_tablecolumn_death1m">Zgonów na 1 milion:</string>
+    <string name="stats_tablecolumn_alltest">Wszystkie testy:</string>
+    <string name="stats_tablecolumn_test1m">Testy na 1 mln:</string>
+    <string name="stats_tablecolumn_population">Populacja:</string>
+    <string name="stats_tablecolumn_continent">Kontynent:</string>
+    <string name="cases_on_world"> Zachorowań na świecie: \n%s</string>
+</resources>
